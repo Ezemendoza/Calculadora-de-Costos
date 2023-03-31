@@ -1,0 +1,25 @@
+.ancho{
+    min-width: 900px;
+}
+.opciones{
+    text-transform: capitalize;
+}
+.copiar{
+text-align: center;
+    position: fixed;
+    top: 85%;
+    background-color:#198754;
+    padding: 25px;
+    border-radius: 4px;
+    font-size: 25px;
+}
+@media screen and (max-width: 1200px) {
+.ancho {
+        min-width: 600px;
+    }
+
+}
+@media screen and (max-width: 1200px) {
+    .ancho {
+        min-width: 100%;
+    }}

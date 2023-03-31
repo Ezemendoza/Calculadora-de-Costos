@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "gaston-seidor",
+    "Seidor App": "seidor-rrhh"
+  },
+  "targets": {},
+  "etags": {}
+}

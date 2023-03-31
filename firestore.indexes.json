@@ -1,0 +1,145 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "condicion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "email",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "condicion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "examen",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "condicion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "condicion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "total",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "condicion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "total",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "examen",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "examen",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "examen",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "total",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "evaluados",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "examen",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "total",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
